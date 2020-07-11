@@ -1,6 +1,7 @@
 #devhull's portfolio
 
-This is my professional portfolio, leveraging AWS & ReactJS
+This is my professional portfolio!!!
+Leveraging AWS & ReactJS
 
 #Tech Used
 Brew
